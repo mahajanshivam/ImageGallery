@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.shivam.android.photofinder.customviews.SquareImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/grid_image_view"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:scaleType="centerCrop"
+    android:layout_margin="1dp">
+
+</com.shivam.android.photofinder.customviews.SquareImageView>

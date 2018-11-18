@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PhotoFinder</string>
+
+    <string name="no_photos_to_show" formatted="true">Press the Search icon in the toolbar </string>
+
+    <string name="key_google_api">AIzaSyCA9vpbfzNYVSbN3rSVhQApL9A18hmyKSg</string>
+    <string name="searchbar_hint">Search Images</string>
+</resources>
